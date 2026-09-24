@@ -13,5 +13,12 @@
       "url": "https://t.me/nuiOTC"
     }
   ],
-  "revoked": []
+  "revoked": [],
+  "terms": [
+    {
+      "hwid": "40B7-180F-E5E6-C7CB",
+      "expiresAt": 1863539252739,
+      "signature": "RG9_6bK7_C0f_7NEakTnbNQZwaRr1Z-N08-e1jWvjqC2wK-9vYe_WSjq2gYEMhIsQlDxX3jxcRSFVtV54I8FAA"
+    }
+  ]
 }
