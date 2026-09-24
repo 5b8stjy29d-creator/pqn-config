@@ -1,9 +1,17 @@
 {
   "title": "Hỗ trợ",
   "message": "Cần bản quyền hoặc hỗ trợ, nhắn Telegram.",
+  "image": "https://raw.githubusercontent.com/5b8stjy29d-creator/pqn-config/main/banner-image.png?v=1790269896736",
+  "imageLink": "https://t.me/nuiOTC",
   "links": [
-    { "label": "Supercare", "url": "https://t.me/supercare247" },
-    { "label": "Núi", "url": "https://t.me/nuiOTC" }
+    {
+      "label": "Supercare",
+      "url": "https://t.me/supercare247"
+    },
+    {
+      "label": "Núi",
+      "url": "https://t.me/nuiOTC"
+    }
   ],
   "revoked": []
 }
