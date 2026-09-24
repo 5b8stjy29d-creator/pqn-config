@@ -1,0 +1,9 @@
+{
+  "title": "Hỗ trợ",
+  "message": "Cần bản quyền hoặc hỗ trợ, nhắn Telegram.",
+  "links": [
+    { "label": "Supercare", "url": "https://t.me/supercare247" },
+    { "label": "Núi", "url": "https://t.me/nuiOTC" }
+  ],
+  "revoked": []
+}
