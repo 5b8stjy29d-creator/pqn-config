@@ -1,4 +1,10 @@
 {
-  "terms": [],
+  "terms": [
+    {
+      "hwid": "40B7-180F-E5E6-C7CB",
+      "expiresAt": 1825065809253,
+      "signature": "s54c40-JwL0y4DSkINdnFkahgtivHZ3jZWyUiJRG1r6zqSFH6RVXxdxyysr8dLfazW5zlA4Hmy4fOtngiTlUBA"
+    }
+  ],
   "revoked": []
 }
